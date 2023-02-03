@@ -4,8 +4,7 @@ var typed = new Typed(".typing", {
     " ",
     "Web Designer",
     "Web Developer",
-    "Graphic Designer",
-    "YouTuber",
+
   ],
   typeSpeed: 100,
   BackSpeed: 60,
